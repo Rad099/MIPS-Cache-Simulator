@@ -1,5 +1,10 @@
+# Ridwan Alrefai - November 2022
+# University of Illinois Chicago - Fall 2022
+# Cache Class
+
 import math
 import logging
+
 
 class Cache:
 

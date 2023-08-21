@@ -5,9 +5,11 @@
 from tabulate import tabulate
 import os
 import CacheClass
+#
+#
+# 
 
-
-# Used to clear output for neat formatting
+# Used to clear output for neat formatting 
 def clear():
   os.system('clear')
 
