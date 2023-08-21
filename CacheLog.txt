@@ -1,0 +1,1057 @@
+access 1 
+checking for mem address 0x2098 (binary: 00000000000000000010000010011000) in set 0... tag: 0x41, offset: 011000
+block 0... empty
+block 1... empty
+block 2... empty
+block 3... empty
+Miss! storing tag 0x41 into set 0 block 0 
+
+
+access 2 
+checking for mem address 0x2094 (binary: 00000000000000000010000010010100) in set 0... tag: 0x41, offset: 010100
+block 0... occupied: tag: 0x41
+Hit! address found in set 0 block 0 
+
+
+access 3 
+checking for mem address 0x2090 (binary: 00000000000000000010000010010000) in set 0... tag: 0x41, offset: 010000
+block 0... occupied: tag: 0x41
+Hit! address found in set 0 block 0 
+
+
+access 4 
+checking for mem address 0x208c (binary: 00000000000000000010000010001100) in set 0... tag: 0x41, offset: 001100
+block 0... occupied: tag: 0x41
+Hit! address found in set 0 block 0 
+
+
+access 5 
+checking for mem address 0x2088 (binary: 00000000000000000010000010001000) in set 0... tag: 0x41, offset: 001000
+block 0... occupied: tag: 0x41
+Hit! address found in set 0 block 0 
+
+
+access 6 
+checking for mem address 0x2084 (binary: 00000000000000000010000010000100) in set 0... tag: 0x41, offset: 000100
+block 0... occupied: tag: 0x41
+Hit! address found in set 0 block 0 
+
+
+access 7 
+checking for mem address 0x2080 (binary: 00000000000000000010000010000000) in set 0... tag: 0x41, offset: 000000
+block 0... occupied: tag: 0x41
+Hit! address found in set 0 block 0 
+
+
+access 8 
+checking for mem address 0x207c (binary: 00000000000000000010000001111100) in set 1... tag: 0x40, offset: 111100
+block 0... empty
+block 1... empty
+block 2... empty
+block 3... empty
+Miss! storing tag 0x40 into set 1 block 0 
+
+
+access 9 
+checking for mem address 0x2078 (binary: 00000000000000000010000001111000) in set 1... tag: 0x40, offset: 111000
+block 0... occupied: tag: 0x40
+Hit! address found in set 1 block 0 
+
+
+access 10 
+checking for mem address 0x2074 (binary: 00000000000000000010000001110100) in set 1... tag: 0x40, offset: 110100
+block 0... occupied: tag: 0x40
+Hit! address found in set 1 block 0 
+
+
+access 11 
+checking for mem address 0x2070 (binary: 00000000000000000010000001110000) in set 1... tag: 0x40, offset: 110000
+block 0... occupied: tag: 0x40
+Hit! address found in set 1 block 0 
+
+
+access 12 
+checking for mem address 0x206c (binary: 00000000000000000010000001101100) in set 1... tag: 0x40, offset: 101100
+block 0... occupied: tag: 0x40
+Hit! address found in set 1 block 0 
+
+
+access 13 
+checking for mem address 0x2068 (binary: 00000000000000000010000001101000) in set 1... tag: 0x40, offset: 101000
+block 0... occupied: tag: 0x40
+Hit! address found in set 1 block 0 
+
+
+access 14 
+checking for mem address 0x2064 (binary: 00000000000000000010000001100100) in set 1... tag: 0x40, offset: 100100
+block 0... occupied: tag: 0x40
+Hit! address found in set 1 block 0 
+
+
+access 15 
+checking for mem address 0x2060 (binary: 00000000000000000010000001100000) in set 1... tag: 0x40, offset: 100000
+block 0... occupied: tag: 0x40
+Hit! address found in set 1 block 0 
+
+
+access 16 
+checking for mem address 0x205c (binary: 00000000000000000010000001011100) in set 1... tag: 0x40, offset: 011100
+block 0... occupied: tag: 0x40
+Hit! address found in set 1 block 0 
+
+
+access 17 
+checking for mem address 0x2058 (binary: 00000000000000000010000001011000) in set 1... tag: 0x40, offset: 011000
+block 0... occupied: tag: 0x40
+Hit! address found in set 1 block 0 
+
+
+access 18 
+checking for mem address 0x2054 (binary: 00000000000000000010000001010100) in set 1... tag: 0x40, offset: 010100
+block 0... occupied: tag: 0x40
+Hit! address found in set 1 block 0 
+
+
+access 19 
+checking for mem address 0x2050 (binary: 00000000000000000010000001010000) in set 1... tag: 0x40, offset: 010000
+block 0... occupied: tag: 0x40
+Hit! address found in set 1 block 0 
+
+
+access 20 
+checking for mem address 0x204c (binary: 00000000000000000010000001001100) in set 1... tag: 0x40, offset: 001100
+block 0... occupied: tag: 0x40
+Hit! address found in set 1 block 0 
+
+
+access 21 
+checking for mem address 0x2048 (binary: 00000000000000000010000001001000) in set 1... tag: 0x40, offset: 001000
+block 0... occupied: tag: 0x40
+Hit! address found in set 1 block 0 
+
+
+access 22 
+checking for mem address 0x2044 (binary: 00000000000000000010000001000100) in set 1... tag: 0x40, offset: 000100
+block 0... occupied: tag: 0x40
+Hit! address found in set 1 block 0 
+
+
+access 23 
+checking for mem address 0x2040 (binary: 00000000000000000010000001000000) in set 1... tag: 0x40, offset: 000000
+block 0... occupied: tag: 0x40
+Hit! address found in set 1 block 0 
+
+
+access 24 
+checking for mem address 0x203c (binary: 00000000000000000010000000111100) in set 0... tag: 0x40, offset: 111100
+block 0... occupied: tag: 0x41
+block 1... empty
+block 2... empty
+block 3... empty
+Miss! storing tag 0x40 into set 0 block 1 
+
+
+access 25 
+checking for mem address 0x2038 (binary: 00000000000000000010000000111000) in set 0... tag: 0x40, offset: 111000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 26 
+checking for mem address 0x2034 (binary: 00000000000000000010000000110100) in set 0... tag: 0x40, offset: 110100
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 27 
+checking for mem address 0x2030 (binary: 00000000000000000010000000110000) in set 0... tag: 0x40, offset: 110000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 28 
+checking for mem address 0x202c (binary: 00000000000000000010000000101100) in set 0... tag: 0x40, offset: 101100
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 29 
+checking for mem address 0x2028 (binary: 00000000000000000010000000101000) in set 0... tag: 0x40, offset: 101000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 30 
+checking for mem address 0x2024 (binary: 00000000000000000010000000100100) in set 0... tag: 0x40, offset: 100100
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 31 
+checking for mem address 0x2020 (binary: 00000000000000000010000000100000) in set 0... tag: 0x40, offset: 100000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 32 
+checking for mem address 0x2000 (binary: 00000000000000000010000000000000) in set 0... tag: 0x40, offset: 000000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 33 
+checking for mem address 0x2000 (binary: 00000000000000000010000000000000) in set 0... tag: 0x40, offset: 000000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 34 
+checking for mem address 0x2004 (binary: 00000000000000000010000000000100) in set 0... tag: 0x40, offset: 000100
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 35 
+checking for mem address 0x2008 (binary: 00000000000000000010000000001000) in set 0... tag: 0x40, offset: 001000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 36 
+checking for mem address 0x2100 (binary: 00000000000000000010000100000000) in set 0... tag: 0x42, offset: 000000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+block 2... empty
+block 3... empty
+Miss! storing tag 0x42 into set 0 block 2 
+
+
+access 37 
+checking for mem address 0x2004 (binary: 00000000000000000010000000000100) in set 0... tag: 0x40, offset: 000100
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 38 
+checking for mem address 0x2004 (binary: 00000000000000000010000000000100) in set 0... tag: 0x40, offset: 000100
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 39 
+checking for mem address 0x2008 (binary: 00000000000000000010000000001000) in set 0... tag: 0x40, offset: 001000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 40 
+checking for mem address 0x200c (binary: 00000000000000000010000000001100) in set 0... tag: 0x40, offset: 001100
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 41 
+checking for mem address 0x2128 (binary: 00000000000000000010000100101000) in set 0... tag: 0x42, offset: 101000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+block 2... occupied: tag: 0x42
+Hit! address found in set 0 block 2 
+
+
+access 42 
+checking for mem address 0x2008 (binary: 00000000000000000010000000001000) in set 0... tag: 0x40, offset: 001000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 43 
+checking for mem address 0x2008 (binary: 00000000000000000010000000001000) in set 0... tag: 0x40, offset: 001000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 44 
+checking for mem address 0x200c (binary: 00000000000000000010000000001100) in set 0... tag: 0x40, offset: 001100
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 45 
+checking for mem address 0x2010 (binary: 00000000000000000010000000010000) in set 0... tag: 0x40, offset: 010000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 46 
+checking for mem address 0x2158 (binary: 00000000000000000010000101011000) in set 1... tag: 0x42, offset: 011000
+block 0... occupied: tag: 0x40
+block 1... empty
+block 2... empty
+block 3... empty
+Miss! storing tag 0x42 into set 1 block 1 
+
+
+access 47 
+checking for mem address 0x200c (binary: 00000000000000000010000000001100) in set 0... tag: 0x40, offset: 001100
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 48 
+checking for mem address 0x200c (binary: 00000000000000000010000000001100) in set 0... tag: 0x40, offset: 001100
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 49 
+checking for mem address 0x2010 (binary: 00000000000000000010000000010000) in set 0... tag: 0x40, offset: 010000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 50 
+checking for mem address 0x2014 (binary: 00000000000000000010000000010100) in set 0... tag: 0x40, offset: 010100
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 51 
+checking for mem address 0x2190 (binary: 00000000000000000010000110010000) in set 0... tag: 0x43, offset: 010000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+block 2... occupied: tag: 0x42
+block 3... empty
+Miss! storing tag 0x43 into set 0 block 3 
+
+
+access 52 
+checking for mem address 0x2010 (binary: 00000000000000000010000000010000) in set 0... tag: 0x40, offset: 010000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 53 
+checking for mem address 0x2010 (binary: 00000000000000000010000000010000) in set 0... tag: 0x40, offset: 010000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 54 
+checking for mem address 0x2014 (binary: 00000000000000000010000000010100) in set 0... tag: 0x40, offset: 010100
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 55 
+checking for mem address 0x2018 (binary: 00000000000000000010000000011000) in set 0... tag: 0x40, offset: 011000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 56 
+checking for mem address 0x21d0 (binary: 00000000000000000010000111010000) in set 1... tag: 0x43, offset: 010000
+block 0... occupied: tag: 0x40
+block 1... occupied: tag: 0x42
+block 2... empty
+block 3... empty
+Miss! storing tag 0x43 into set 1 block 2 
+
+
+access 57 
+checking for mem address 0x2014 (binary: 00000000000000000010000000010100) in set 0... tag: 0x40, offset: 010100
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 58 
+checking for mem address 0x2014 (binary: 00000000000000000010000000010100) in set 0... tag: 0x40, offset: 010100
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 59 
+checking for mem address 0x2018 (binary: 00000000000000000010000000011000) in set 0... tag: 0x40, offset: 011000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 60 
+checking for mem address 0x201c (binary: 00000000000000000010000000011100) in set 0... tag: 0x40, offset: 011100
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 61 
+checking for mem address 0x2218 (binary: 00000000000000000010001000011000) in set 0... tag: 0x44, offset: 011000
+block 0... occupied: tag: 0x41
+block 1... occupied: tag: 0x40
+block 2... occupied: tag: 0x42
+block 3... occupied: tag: 0x43
+All blocks occupied. Finding least used block...
+
+LRU: 0x41 at block 0
+Replacing with: 0x44
+Miss! storing tag 0x44 into set 0 block 0 
+
+
+access 62 
+checking for mem address 0x2018 (binary: 00000000000000000010000000011000) in set 0... tag: 0x40, offset: 011000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 63 
+checking for mem address 0x2018 (binary: 00000000000000000010000000011000) in set 0... tag: 0x40, offset: 011000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 64 
+checking for mem address 0x201c (binary: 00000000000000000010000000011100) in set 0... tag: 0x40, offset: 011100
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 65 
+checking for mem address 0x2020 (binary: 00000000000000000010000000100000) in set 0... tag: 0x40, offset: 100000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 66 
+checking for mem address 0x2268 (binary: 00000000000000000010001001101000) in set 1... tag: 0x44, offset: 101000
+block 0... occupied: tag: 0x40
+block 1... occupied: tag: 0x42
+block 2... occupied: tag: 0x43
+block 3... empty
+Miss! storing tag 0x44 into set 1 block 3 
+
+
+access 67 
+checking for mem address 0x201c (binary: 00000000000000000010000000011100) in set 0... tag: 0x40, offset: 011100
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 68 
+checking for mem address 0x201c (binary: 00000000000000000010000000011100) in set 0... tag: 0x40, offset: 011100
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 69 
+checking for mem address 0x2020 (binary: 00000000000000000010000000100000) in set 0... tag: 0x40, offset: 100000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 70 
+checking for mem address 0x2024 (binary: 00000000000000000010000000100100) in set 0... tag: 0x40, offset: 100100
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 71 
+checking for mem address 0x22c0 (binary: 00000000000000000010001011000000) in set 1... tag: 0x45, offset: 000000
+block 0... occupied: tag: 0x40
+block 1... occupied: tag: 0x42
+block 2... occupied: tag: 0x43
+block 3... occupied: tag: 0x44
+All blocks occupied. Finding least used block...
+
+LRU: 0x40 at block 0
+Replacing with: 0x45
+Miss! storing tag 0x45 into set 1 block 0 
+
+
+access 72 
+checking for mem address 0x2020 (binary: 00000000000000000010000000100000) in set 0... tag: 0x40, offset: 100000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 73 
+checking for mem address 0x2020 (binary: 00000000000000000010000000100000) in set 0... tag: 0x40, offset: 100000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 74 
+checking for mem address 0x2024 (binary: 00000000000000000010000000100100) in set 0... tag: 0x40, offset: 100100
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 75 
+checking for mem address 0x2028 (binary: 00000000000000000010000000101000) in set 0... tag: 0x40, offset: 101000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 76 
+checking for mem address 0x2320 (binary: 00000000000000000010001100100000) in set 0... tag: 0x46, offset: 100000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+block 2... occupied: tag: 0x42
+block 3... occupied: tag: 0x43
+All blocks occupied. Finding least used block...
+
+LRU: 0x42 at block 2
+Replacing with: 0x46
+Miss! storing tag 0x46 into set 0 block 2 
+
+
+access 77 
+checking for mem address 0x2024 (binary: 00000000000000000010000000100100) in set 0... tag: 0x40, offset: 100100
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 78 
+checking for mem address 0x2024 (binary: 00000000000000000010000000100100) in set 0... tag: 0x40, offset: 100100
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 79 
+checking for mem address 0x2028 (binary: 00000000000000000010000000101000) in set 0... tag: 0x40, offset: 101000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 80 
+checking for mem address 0x202c (binary: 00000000000000000010000000101100) in set 0... tag: 0x40, offset: 101100
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 81 
+checking for mem address 0x2388 (binary: 00000000000000000010001110001000) in set 0... tag: 0x47, offset: 001000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+block 2... occupied: tag: 0x46
+block 3... occupied: tag: 0x43
+All blocks occupied. Finding least used block...
+
+LRU: 0x43 at block 3
+Replacing with: 0x47
+Miss! storing tag 0x47 into set 0 block 3 
+
+
+access 82 
+checking for mem address 0x2028 (binary: 00000000000000000010000000101000) in set 0... tag: 0x40, offset: 101000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 83 
+checking for mem address 0x2028 (binary: 00000000000000000010000000101000) in set 0... tag: 0x40, offset: 101000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 84 
+checking for mem address 0x202c (binary: 00000000000000000010000000101100) in set 0... tag: 0x40, offset: 101100
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 85 
+checking for mem address 0x2030 (binary: 00000000000000000010000000110000) in set 0... tag: 0x40, offset: 110000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 86 
+checking for mem address 0x23f8 (binary: 00000000000000000010001111111000) in set 1... tag: 0x47, offset: 111000
+block 0... occupied: tag: 0x45
+block 1... occupied: tag: 0x42
+block 2... occupied: tag: 0x43
+block 3... occupied: tag: 0x44
+All blocks occupied. Finding least used block...
+
+LRU: 0x42 at block 1
+Replacing with: 0x47
+Miss! storing tag 0x47 into set 1 block 1 
+
+
+access 87 
+checking for mem address 0x202c (binary: 00000000000000000010000000101100) in set 0... tag: 0x40, offset: 101100
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 88 
+checking for mem address 0x202c (binary: 00000000000000000010000000101100) in set 0... tag: 0x40, offset: 101100
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 89 
+checking for mem address 0x2030 (binary: 00000000000000000010000000110000) in set 0... tag: 0x40, offset: 110000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 90 
+checking for mem address 0x2034 (binary: 00000000000000000010000000110100) in set 0... tag: 0x40, offset: 110100
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 91 
+checking for mem address 0x2470 (binary: 00000000000000000010010001110000) in set 1... tag: 0x48, offset: 110000
+block 0... occupied: tag: 0x45
+block 1... occupied: tag: 0x47
+block 2... occupied: tag: 0x43
+block 3... occupied: tag: 0x44
+All blocks occupied. Finding least used block...
+
+LRU: 0x43 at block 2
+Replacing with: 0x48
+Miss! storing tag 0x48 into set 1 block 2 
+
+
+access 92 
+checking for mem address 0x2030 (binary: 00000000000000000010000000110000) in set 0... tag: 0x40, offset: 110000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 93 
+checking for mem address 0x2030 (binary: 00000000000000000010000000110000) in set 0... tag: 0x40, offset: 110000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 94 
+checking for mem address 0x2034 (binary: 00000000000000000010000000110100) in set 0... tag: 0x40, offset: 110100
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 95 
+checking for mem address 0x2038 (binary: 00000000000000000010000000111000) in set 0... tag: 0x40, offset: 111000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 96 
+checking for mem address 0x24f0 (binary: 00000000000000000010010011110000) in set 1... tag: 0x49, offset: 110000
+block 0... occupied: tag: 0x45
+block 1... occupied: tag: 0x47
+block 2... occupied: tag: 0x48
+block 3... occupied: tag: 0x44
+All blocks occupied. Finding least used block...
+
+LRU: 0x44 at block 3
+Replacing with: 0x49
+Miss! storing tag 0x49 into set 1 block 3 
+
+
+access 97 
+checking for mem address 0x2034 (binary: 00000000000000000010000000110100) in set 0... tag: 0x40, offset: 110100
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 98 
+checking for mem address 0x2034 (binary: 00000000000000000010000000110100) in set 0... tag: 0x40, offset: 110100
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 99 
+checking for mem address 0x2038 (binary: 00000000000000000010000000111000) in set 0... tag: 0x40, offset: 111000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 100 
+checking for mem address 0x203c (binary: 00000000000000000010000000111100) in set 0... tag: 0x40, offset: 111100
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 101 
+checking for mem address 0x2578 (binary: 00000000000000000010010101111000) in set 1... tag: 0x4a, offset: 111000
+block 0... occupied: tag: 0x45
+block 1... occupied: tag: 0x47
+block 2... occupied: tag: 0x48
+block 3... occupied: tag: 0x49
+All blocks occupied. Finding least used block...
+
+LRU: 0x45 at block 0
+Replacing with: 0x4a
+Miss! storing tag 0x4a into set 1 block 0 
+
+
+access 102 
+checking for mem address 0x2038 (binary: 00000000000000000010000000111000) in set 0... tag: 0x40, offset: 111000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 103 
+checking for mem address 0x2038 (binary: 00000000000000000010000000111000) in set 0... tag: 0x40, offset: 111000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 104 
+checking for mem address 0x203c (binary: 00000000000000000010000000111100) in set 0... tag: 0x40, offset: 111100
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 105 
+checking for mem address 0x2040 (binary: 00000000000000000010000001000000) in set 1... tag: 0x40, offset: 000000
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x47
+block 2... occupied: tag: 0x48
+block 3... occupied: tag: 0x49
+All blocks occupied. Finding least used block...
+
+LRU: 0x47 at block 1
+Replacing with: 0x40
+Miss! storing tag 0x40 into set 1 block 1 
+
+
+access 106 
+checking for mem address 0x2608 (binary: 00000000000000000010011000001000) in set 0... tag: 0x4c, offset: 001000
+block 0... occupied: tag: 0x44
+block 1... occupied: tag: 0x40
+block 2... occupied: tag: 0x46
+block 3... occupied: tag: 0x47
+All blocks occupied. Finding least used block...
+
+LRU: 0x44 at block 0
+Replacing with: 0x4c
+Miss! storing tag 0x4c into set 0 block 0 
+
+
+access 107 
+checking for mem address 0x203c (binary: 00000000000000000010000000111100) in set 0... tag: 0x40, offset: 111100
+block 0... occupied: tag: 0x4c
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 108 
+checking for mem address 0x203c (binary: 00000000000000000010000000111100) in set 0... tag: 0x40, offset: 111100
+block 0... occupied: tag: 0x4c
+block 1... occupied: tag: 0x40
+Hit! address found in set 0 block 1 
+
+
+access 109 
+checking for mem address 0x2040 (binary: 00000000000000000010000001000000) in set 1... tag: 0x40, offset: 000000
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 110 
+checking for mem address 0x2044 (binary: 00000000000000000010000001000100) in set 1... tag: 0x40, offset: 000100
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 111 
+checking for mem address 0x26a0 (binary: 00000000000000000010011010100000) in set 0... tag: 0x4d, offset: 100000
+block 0... occupied: tag: 0x4c
+block 1... occupied: tag: 0x40
+block 2... occupied: tag: 0x46
+block 3... occupied: tag: 0x47
+All blocks occupied. Finding least used block...
+
+LRU: 0x46 at block 2
+Replacing with: 0x4d
+Miss! storing tag 0x4d into set 0 block 2 
+
+
+access 112 
+checking for mem address 0x2040 (binary: 00000000000000000010000001000000) in set 1... tag: 0x40, offset: 000000
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 113 
+checking for mem address 0x2040 (binary: 00000000000000000010000001000000) in set 1... tag: 0x40, offset: 000000
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 114 
+checking for mem address 0x2044 (binary: 00000000000000000010000001000100) in set 1... tag: 0x40, offset: 000100
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 115 
+checking for mem address 0x2048 (binary: 00000000000000000010000001001000) in set 1... tag: 0x40, offset: 001000
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 116 
+checking for mem address 0x2740 (binary: 00000000000000000010011101000000) in set 1... tag: 0x4e, offset: 000000
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+block 2... occupied: tag: 0x48
+block 3... occupied: tag: 0x49
+All blocks occupied. Finding least used block...
+
+LRU: 0x48 at block 2
+Replacing with: 0x4e
+Miss! storing tag 0x4e into set 1 block 2 
+
+
+access 117 
+checking for mem address 0x2044 (binary: 00000000000000000010000001000100) in set 1... tag: 0x40, offset: 000100
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 118 
+checking for mem address 0x2044 (binary: 00000000000000000010000001000100) in set 1... tag: 0x40, offset: 000100
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 119 
+checking for mem address 0x2048 (binary: 00000000000000000010000001001000) in set 1... tag: 0x40, offset: 001000
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 120 
+checking for mem address 0x204c (binary: 00000000000000000010000001001100) in set 1... tag: 0x40, offset: 001100
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 121 
+checking for mem address 0x27e8 (binary: 00000000000000000010011111101000) in set 1... tag: 0x4f, offset: 101000
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+block 2... occupied: tag: 0x4e
+block 3... occupied: tag: 0x49
+All blocks occupied. Finding least used block...
+
+LRU: 0x49 at block 3
+Replacing with: 0x4f
+Miss! storing tag 0x4f into set 1 block 3 
+
+
+access 122 
+checking for mem address 0x2048 (binary: 00000000000000000010000001001000) in set 1... tag: 0x40, offset: 001000
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 123 
+checking for mem address 0x2048 (binary: 00000000000000000010000001001000) in set 1... tag: 0x40, offset: 001000
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 124 
+checking for mem address 0x204c (binary: 00000000000000000010000001001100) in set 1... tag: 0x40, offset: 001100
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 125 
+checking for mem address 0x2050 (binary: 00000000000000000010000001010000) in set 1... tag: 0x40, offset: 010000
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 126 
+checking for mem address 0x2898 (binary: 00000000000000000010100010011000) in set 0... tag: 0x51, offset: 011000
+block 0... occupied: tag: 0x4c
+block 1... occupied: tag: 0x40
+block 2... occupied: tag: 0x4d
+block 3... occupied: tag: 0x47
+All blocks occupied. Finding least used block...
+
+LRU: 0x47 at block 3
+Replacing with: 0x51
+Miss! storing tag 0x51 into set 0 block 3 
+
+
+access 127 
+checking for mem address 0x204c (binary: 00000000000000000010000001001100) in set 1... tag: 0x40, offset: 001100
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 128 
+checking for mem address 0x204c (binary: 00000000000000000010000001001100) in set 1... tag: 0x40, offset: 001100
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 129 
+checking for mem address 0x2050 (binary: 00000000000000000010000001010000) in set 1... tag: 0x40, offset: 010000
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 130 
+checking for mem address 0x2054 (binary: 00000000000000000010000001010100) in set 1... tag: 0x40, offset: 010100
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 131 
+checking for mem address 0x2950 (binary: 00000000000000000010100101010000) in set 1... tag: 0x52, offset: 010000
+block 0... occupied: tag: 0x4a
+block 1... occupied: tag: 0x40
+block 2... occupied: tag: 0x4e
+block 3... occupied: tag: 0x4f
+All blocks occupied. Finding least used block...
+
+LRU: 0x4a at block 0
+Replacing with: 0x52
+Miss! storing tag 0x52 into set 1 block 0 
+
+
+access 132 
+checking for mem address 0x2050 (binary: 00000000000000000010000001010000) in set 1... tag: 0x40, offset: 010000
+block 0... occupied: tag: 0x52
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 133 
+checking for mem address 0x2050 (binary: 00000000000000000010000001010000) in set 1... tag: 0x40, offset: 010000
+block 0... occupied: tag: 0x52
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 134 
+checking for mem address 0x2054 (binary: 00000000000000000010000001010100) in set 1... tag: 0x40, offset: 010100
+block 0... occupied: tag: 0x52
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 135 
+checking for mem address 0x2058 (binary: 00000000000000000010000001011000) in set 1... tag: 0x40, offset: 011000
+block 0... occupied: tag: 0x52
+block 1... occupied: tag: 0x40
+Hit! address found in set 1 block 1 
+
+
+access 136 
+checking for mem address 0x2a10 (binary: 00000000000000000010101000010000) in set 0... tag: 0x54, offset: 010000
+block 0... occupied: tag: 0x4c
+block 1... occupied: tag: 0x40
+block 2... occupied: tag: 0x4d
+block 3... occupied: tag: 0x51
+All blocks occupied. Finding least used block...
+
+LRU: 0x4c at block 0
+Replacing with: 0x54
+Miss! storing tag 0x54 into set 0 block 0 
+
+
+access 137 
+checking for mem address 0x2ad8 (binary: 00000000000000000010101011011000) in set 1... tag: 0x55, offset: 011000
+block 0... occupied: tag: 0x52
+block 1... occupied: tag: 0x40
+block 2... occupied: tag: 0x4e
+block 3... occupied: tag: 0x4f
+All blocks occupied. Finding least used block...
+
+LRU: 0x4e at block 2
+Replacing with: 0x55
+Miss! storing tag 0x55 into set 1 block 2 
+
+
